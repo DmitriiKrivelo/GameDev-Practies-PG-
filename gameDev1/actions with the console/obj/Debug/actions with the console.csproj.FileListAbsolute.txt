@@ -1,0 +1,8 @@
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\actions with the console\bin\Debug\actions with the console.exe.config
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\actions with the console\bin\Debug\actions with the console.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\actions with the console\bin\Debug\actions with the console.pdb
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\actions with the console\obj\Debug\actions with the console.csproj.AssemblyReference.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\actions with the console\obj\Debug\actions with the console.csproj.SuggestedBindingRedirects.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\actions with the console\obj\Debug\actions with the console.csproj.CoreCompileInputs.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\actions with the console\obj\Debug\actions with the console.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\actions with the console\obj\Debug\actions with the console.pdb

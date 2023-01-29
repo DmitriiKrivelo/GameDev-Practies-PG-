@@ -1,0 +1,8 @@
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\one- dimensional arrays\bin\Debug\one- dimensional arrays.exe.config
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\one- dimensional arrays\bin\Debug\one- dimensional arrays.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\one- dimensional arrays\bin\Debug\one- dimensional arrays.pdb
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\one- dimensional arrays\obj\Debug\one- dimensional arrays.csproj.AssemblyReference.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\one- dimensional arrays\obj\Debug\one- dimensional arrays.csproj.SuggestedBindingRedirects.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\one- dimensional arrays\obj\Debug\one- dimensional arrays.csproj.CoreCompileInputs.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\one- dimensional arrays\obj\Debug\one- dimensional arrays.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\one- dimensional arrays\obj\Debug\one- dimensional arrays.pdb

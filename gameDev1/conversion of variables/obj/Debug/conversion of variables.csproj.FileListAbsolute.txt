@@ -1,0 +1,8 @@
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\conversion of variables\bin\Debug\conversion of variables.exe.config
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\conversion of variables\bin\Debug\conversion of variables.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\conversion of variables\bin\Debug\conversion of variables.pdb
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\conversion of variables\obj\Debug\conversion of variables.csproj.AssemblyReference.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\conversion of variables\obj\Debug\conversion of variables.csproj.SuggestedBindingRedirects.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\conversion of variables\obj\Debug\conversion of variables.csproj.CoreCompileInputs.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\conversion of variables\obj\Debug\conversion of variables.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\conversion of variables\obj\Debug\conversion of variables.pdb

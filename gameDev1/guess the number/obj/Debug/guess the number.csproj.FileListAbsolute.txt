@@ -1,0 +1,8 @@
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\guess the number\bin\Debug\guess the number.exe.config
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\guess the number\bin\Debug\guess the number.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\guess the number\bin\Debug\guess the number.pdb
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\guess the number\obj\Debug\guess the number.csproj.AssemblyReference.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\guess the number\obj\Debug\guess the number.csproj.SuggestedBindingRedirects.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\guess the number\obj\Debug\guess the number.csproj.CoreCompileInputs.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\guess the number\obj\Debug\guess the number.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\guess the number\obj\Debug\guess the number.pdb

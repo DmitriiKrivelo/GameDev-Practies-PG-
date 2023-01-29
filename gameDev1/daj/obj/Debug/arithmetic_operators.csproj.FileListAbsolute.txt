@@ -1,0 +1,8 @@
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\daj\bin\Debug\daj.exe.config
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\daj\bin\Debug\daj.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\daj\bin\Debug\daj.pdb
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\daj\obj\Debug\arithmetic_operators.csproj.AssemblyReference.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\daj\obj\Debug\arithmetic_operators.csproj.SuggestedBindingRedirects.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\daj\obj\Debug\arithmetic_operators.csproj.CoreCompileInputs.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\daj\obj\Debug\daj.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\daj\obj\Debug\daj.pdb

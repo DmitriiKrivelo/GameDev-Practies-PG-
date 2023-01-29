@@ -1,0 +1,8 @@
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\computer club simulator\bin\Debug\computer club simulator.exe.config
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\computer club simulator\bin\Debug\computer club simulator.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\computer club simulator\bin\Debug\computer club simulator.pdb
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\computer club simulator\obj\Debug\computer club simulator.csproj.AssemblyReference.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\computer club simulator\obj\Debug\computer club simulator.csproj.SuggestedBindingRedirects.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\computer club simulator\obj\Debug\computer club simulator.csproj.CoreCompileInputs.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\computer club simulator\obj\Debug\computer club simulator.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\computer club simulator\obj\Debug\computer club simulator.pdb

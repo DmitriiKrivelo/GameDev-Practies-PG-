@@ -1,0 +1,8 @@
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Cycles\obj\Debug\Cycles.csproj.AssemblyReference.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Cycles\obj\Debug\Cycles.csproj.SuggestedBindingRedirects.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Cycles\obj\Debug\Cycles.csproj.CoreCompileInputs.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Cycles\bin\Debug\Cycles.exe.config
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Cycles\bin\Debug\Cycles.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Cycles\bin\Debug\Cycles.pdb
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Cycles\obj\Debug\Cycles.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Cycles\obj\Debug\Cycles.pdb

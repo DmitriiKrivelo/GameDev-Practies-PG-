@@ -1,0 +1,8 @@
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\switch\bin\Debug\@switch.exe.config
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\switch\bin\Debug\@switch.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\switch\bin\Debug\@switch.pdb
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\switch\obj\Debug\switch.csproj.AssemblyReference.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\switch\obj\Debug\switch.csproj.SuggestedBindingRedirects.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\switch\obj\Debug\switch.csproj.CoreCompileInputs.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\switch\obj\Debug\@switch.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\switch\obj\Debug\@switch.pdb

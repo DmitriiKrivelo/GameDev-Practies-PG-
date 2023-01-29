@@ -1,0 +1,8 @@
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\walker\bin\Debug\walker.exe.config
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\walker\bin\Debug\walker.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\walker\bin\Debug\walker.pdb
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\walker\obj\Debug\walker.csproj.AssemblyReference.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\walker\obj\Debug\walker.csproj.SuggestedBindingRedirects.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\walker\obj\Debug\walker.csproj.CoreCompileInputs.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\walker\obj\Debug\walker.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\walker\obj\Debug\walker.pdb

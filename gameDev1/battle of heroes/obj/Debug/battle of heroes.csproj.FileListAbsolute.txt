@@ -1,0 +1,8 @@
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\battle of heroes\bin\Debug\battle of heroes.exe.config
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\battle of heroes\bin\Debug\battle of heroes.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\battle of heroes\bin\Debug\battle of heroes.pdb
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\battle of heroes\obj\Debug\battle of heroes.csproj.AssemblyReference.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\battle of heroes\obj\Debug\battle of heroes.csproj.SuggestedBindingRedirects.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\battle of heroes\obj\Debug\battle of heroes.csproj.CoreCompileInputs.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\battle of heroes\obj\Debug\battle of heroes.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\battle of heroes\obj\Debug\battle of heroes.pdb

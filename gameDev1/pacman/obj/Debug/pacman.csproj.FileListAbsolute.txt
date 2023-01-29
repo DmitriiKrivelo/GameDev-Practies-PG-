@@ -1,0 +1,8 @@
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\pacman\bin\Debug\pacman.exe.config
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\pacman\bin\Debug\pacman.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\pacman\bin\Debug\pacman.pdb
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\pacman\obj\Debug\pacman.csproj.AssemblyReference.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\pacman\obj\Debug\pacman.csproj.SuggestedBindingRedirects.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\pacman\obj\Debug\pacman.csproj.CoreCompileInputs.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\pacman\obj\Debug\pacman.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\pacman\obj\Debug\pacman.pdb

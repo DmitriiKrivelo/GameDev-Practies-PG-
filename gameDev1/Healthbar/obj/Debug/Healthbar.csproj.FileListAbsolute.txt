@@ -1,0 +1,8 @@
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Healthbar\bin\Debug\Healthbar.exe.config
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Healthbar\bin\Debug\Healthbar.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Healthbar\bin\Debug\Healthbar.pdb
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Healthbar\obj\Debug\Healthbar.csproj.AssemblyReference.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Healthbar\obj\Debug\Healthbar.csproj.SuggestedBindingRedirects.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Healthbar\obj\Debug\Healthbar.csproj.CoreCompileInputs.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Healthbar\obj\Debug\Healthbar.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\Healthbar\obj\Debug\Healthbar.pdb

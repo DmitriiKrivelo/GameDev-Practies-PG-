@@ -1,0 +1,8 @@
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\if\bin\Debug\@if.exe.config
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\if\bin\Debug\@if.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\if\bin\Debug\@if.pdb
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\if\obj\Debug\if.csproj.AssemblyReference.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\if\obj\Debug\if.csproj.SuggestedBindingRedirects.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\if\obj\Debug\if.csproj.CoreCompileInputs.cache
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\if\obj\Debug\@if.exe
+D:\VIDASHKI\полезная дичь\visstud\gameDev1\if\obj\Debug\@if.pdb
