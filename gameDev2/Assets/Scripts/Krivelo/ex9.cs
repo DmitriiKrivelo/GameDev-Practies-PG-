@@ -6,7 +6,18 @@ public class ex9 : MonoBehaviour
 {
     // Start is called before the first frame update
     public int n, m;
-    void Start()
+    public void Start()
+    {
+        Debug81();
+    }
+
+    public ex9(int n, int m)
+    {
+        this.n = n;
+        this.m = m;
+    }
+
+    public void Debug81()
     {
         int[][] mass = new int[n][];
         for (int i = 0; i < n; i++)

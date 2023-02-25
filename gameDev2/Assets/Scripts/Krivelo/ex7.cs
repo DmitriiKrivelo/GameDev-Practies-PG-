@@ -14,7 +14,7 @@ public class ex7 : MonoBehaviour
         Ex2Debug();
     }
 
-    void Ex1Debug()
+    public void Ex1Debug()
     {
         int[,] nums = new int[n, m];
         int[] result = null;
@@ -25,7 +25,7 @@ public class ex7 : MonoBehaviour
         }
     }
 
-    void Ex2Debug()
+    public void Ex2Debug()
     {
         List<int> result1 = Ex2();
         for (int j = 0; j < result1.Count; j++)
@@ -65,20 +65,20 @@ public class ex7 : MonoBehaviour
             return min;
         }
         
-        int Max(int[,] nums, int max)
+    int Max(int[,] nums, int max)
+    {
+        for (int i = 0; i < n; i++)
         {
-            for (int i = 0; i < n; i++)
+            for (int j = 0; j < m; j++)
             {
-                for (int j = 0; j < m; j++)
-                {
-                    if (nums[i, j] > max)
-                        max = nums[i, j];
-                }
+                if (nums[i, j] > max)
+                    max = nums[i, j];
             }
-            return max;
         }
+        return max;
+    }
 
-        int LengthMass(int[,] nums) => nums.Length;
+    int LengthMass(int[,] nums) => nums.Length;
         
         
         

@@ -6,9 +6,20 @@ public class ex8 : MonoBehaviour
 {
     // Start is called before the first frame update
     public int n, m;
-    void Start()
+    public void Start()
     {
-        int[,] mass = new int[n,m];
+        Debug71();
+    }
+
+    public ex8(int n, int m)
+    {
+        this.n = n;
+        this.m = m;
+    }
+
+    public void Debug71()
+    {
+        int[,] mass = new int[n, m];
         CreateMass(mass);
         PrintMass(mass);
     }
@@ -31,7 +42,7 @@ public class ex8 : MonoBehaviour
         {
             for (int j = 0; j < m; j++)
             {
-                print($"Element with indexes {i}, {j} = {mass[i, j]}");
+                Debug.Log($"Element with indexes {i}, {j} = {mass[i, j]}");
             }
         }
     }
